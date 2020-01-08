@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tariffs>
+    <tariff name="Lemon X" operator="A1" payroll="15">
+        <callPrices>
+            <insideNetwork>1</insideNetwork>
+            <outsideNetwork>2</outsideNetwork>
+            <landLine>0.5</landLine>
+            <sms>1</sms>
+        </callPrices>
+        <parameters>
+            <favouriteNumber>+375447807615</favouriteNumber>
+            <favouriteNumber>+375291112233</favouriteNumber>
+            <tariffType>MINUTE</tariffType>
+            <connectionPrice>10</connectionPrice>
+        </parameters>
+    </tariff>
+    <tariff name="Comfort" operator="A1" payroll="11">
+        <callPrices>
+            <insideNetwork>2</insideNetwork>
+            <outsideNetwork>3</outsideNetwork>
+            <landLine>0.7</landLine>
+            <sms>1.5</sms>
+        </callPrices>
+        <parameters>
+            <tariffType>TWELVE_SEC</tariffType>
+            <connectionPrice>15</connectionPrice>
+        </parameters>
+    </tariff>
+</tariffs>

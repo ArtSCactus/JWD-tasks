@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bb55b73-ec7e-48ad-bf53-d569fd87c657" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TZXQse5OBauBagDuQBW1jykfz4" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Geometry\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Geometry\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open D:\Projects\Introduction-to-Java-course-tasks" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.com.epam.tests in Geometry">
+    <configuration name="CubeConstructorTest.shouldNotRecognizeCube" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Geometry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.tests.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.tests.util" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.tests.util.CubeConstructorTest" />
+      <option name="METHOD_NAME" value="shouldNotRecognizeCube" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CubeConstructorTest.shouldRecognizeCube" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Geometry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.tests.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.tests.util" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.tests.util.CubeConstructorTest" />
+      <option name="METHOD_NAME" value="shouldRecognizeCube" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataLoaderTest.shouldThrowFileAccessException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Geometry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.tests.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.tests.util" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.tests.util.DataLoaderTest" />
+      <option name="METHOD_NAME" value="shouldThrowFileAccessException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Geometry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.tests.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.tests.register" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.tests.register.RegisterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.epam.tests in Geometry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Geometry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.tests.register.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.epam.tests in Geometry" />
+        <item itemvalue="JUnit.CubeConstructorTest.shouldRecognizeCube" />
+        <item itemvalue="JUnit.CubeConstructorTest.shouldNotRecognizeCube" />
+        <item itemvalue="JUnit.DataLoaderTest.shouldThrowFileAccessException" />
+        <item itemvalue="JUnit.RegisterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bb55b73-ec7e-48ad-bf53-d569fd87c657" name="Default Changelist" comment="" />
+      <created>1573668578270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573668578270</updated>
+    </task>
+    <servers />
+  </component>
+</project>

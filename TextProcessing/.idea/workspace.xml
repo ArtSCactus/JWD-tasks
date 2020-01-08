@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b8cadfd-6f8d-41de-9e9b-f9e71f10a6ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="TestNG Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uy9eWYJ0z3DrPwcJSp79TpGDjD" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31494254" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service" />
+      <recent name="representation" />
+      <recent name="interpreter.calculator" />
+      <recent name="parser" />
+      <recent name="validators" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\TextProcessing\src\test\resources" />
+      <recent name="D:\Projects\TextProcessing\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\TextProcessing\src\main\resources" />
+      <recent name="D:\Projects\TextProcessing\src\test\resources\sorting" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interpreter" />
+      <recent name="entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TextBuilderTest.shouldCorrectlyRestoreText">
+    <configuration name="All in TextProcessing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextBuilderTest.shouldCorrectlyRestoreText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="representation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="representation" />
+      <option name="MAIN_CLASS_NAME" value="representation.TextBuilderTest" />
+      <option name="METHOD_NAME" value="shouldCorrectlyRestoreText" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parsers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parsers" />
+      <option name="MAIN_CLASS_NAME" value="parsers.TextParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter.calculator" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.calculator.CalculatorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionRootFinderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TextProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interpreter.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interpreter.calculator" />
+      <option name="MAIN_CLASS_NAME" value="interpreter.calculator.ExpressionRootFinderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TextBuilderTest.shouldCorrectlyRestoreText" />
+        <item itemvalue="TestNG.ExpressionRootFinderTest" />
+        <item itemvalue="TestNG.CalculatorTest" />
+        <item itemvalue="JUnit.All in TextProcessing" />
+        <item itemvalue="JUnit.TextParserTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b8cadfd-6f8d-41de-9e9b-f9e71f10a6ee" name="Default Changelist" comment="" />
+      <created>1576318063724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576318063724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/representation/TextBuilder.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parsers/SentenceParser.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="numbers" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
